@@ -1,0 +1,47 @@
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csprojResolveAssemblyReference.cache
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.Cache
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.pdb
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\Master\Desktop\c#\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+H:\C#2\Gestion cabient dentaier\PlayerUI\bin\Debug\PlayerUI.exe.config
+H:\C#2\Gestion cabient dentaier\PlayerUI\bin\Debug\PlayerUI.exe
+H:\C#2\Gestion cabient dentaier\PlayerUI\bin\Debug\PlayerUI.pdb
+H:\C#2\Gestion cabient dentaier\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.exe
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.pdb
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.AjouterPatient.resources
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.ListPatient.resources
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.AjouterRDV.resources
+H:\C#2\Gestion cabient dentaier\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
